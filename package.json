@@ -1,0 +1,22 @@
+{
+  "name": "solana-nft-mint-filter",
+  "version": "1.0.0",
+  "description": "A simple JS script that pulls an owner's tokens and filters for apes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verata-veritatis/solana-nft-mint-filter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verata-veritatis/solana-nft-mint-filter/issues"
+  },
+  "homepage": "https://github.com/verata-veritatis/solana-nft-mint-filter#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.53.0"
+  }
+}

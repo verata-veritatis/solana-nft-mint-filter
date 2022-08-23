@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Apple can suck it.
+.DS_Store
+*.DS_Store
+**.DS_Store
+
+# And sometimes VSCode
+.vscode
